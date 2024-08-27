@@ -78,8 +78,8 @@ Prompts are in run.ipynb, so you can refer it when you test generation with you 
 
 For more information and a deeper understanding of the mechanisms discussed, the following resources are recommended:
 
-- [Understanding the Impact of Negative Prompts: When and How Do They Take Effect?](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
-- [Research Paper on CFG in Diffusion Models](https://arxiv.org/pdf/2406.02965)
+- [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/)
+- [Understanding the Impact of Negative Prompts: When and How Do They Take Effect?](https://arxiv.org/pdf/2406.02965)
 - [CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models](https://arxiv.org/abs/2406.08070v1)
 
 ## Conclusion
