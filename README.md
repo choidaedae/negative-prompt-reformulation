@@ -69,6 +69,10 @@ pip install diffusers[torch] transformers matplotlib
 The whole code consists of modified DDIM scheduler (to integrate CFG++), pipeline, and notebook file. 
 If you want to quickly start, just run 'run.ipynb'.
 
+## Results 
+You can check whole results with 13 prompts and 5 seeds in [HERE](https://drive.google.com/file/d/17o5q9R3MI_MvwVhS425eqbkYskHjUgol/view?usp=sharing). 
+
+Prompts are in run.ipynb, so you can refer it when you test generation with you own guidance scale. 
 
 ## Materials and Further Reading
 
@@ -81,4 +85,5 @@ For more information and a deeper understanding of the mechanisms discussed, the
 ## Conclusion
 
 This proposed reformulation of the negative prompt in Stable Diffusion, inspired by the diffusers' CFG interpretation, aims to provide improved control and image quality. By adjusting the relationship between the positive, negative, and unconditional inputs, this method offers a more nuanced and effective way to steer the generation process.
+
 
